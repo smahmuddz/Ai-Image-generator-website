@@ -1,5 +1,6 @@
 # Ai-Image-generator-website
 A simple image generator website built with Node.js and Express that uses [OpenAI's Dall-E models](https://beta.openai.com/docs/guides/images) to generate images.
+
 <img src="https://user-images.githubusercontent.com/85384973/208157595-1e84cb8e-6b16-437f-b5e8-5b62b9de8499.png" width="500">
 
 ## Features

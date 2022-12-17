@@ -39,6 +39,7 @@ Install dependencies
 ```bash
   npm install
 ```
+##You Have to change the key from .env file with the api key from your Device
 
 Start the server
 
